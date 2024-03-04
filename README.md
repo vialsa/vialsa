@@ -6,6 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-santos-9b4500221/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](vitorsjtbarbosa@outlook.com)
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRtY2k5Zmk0a2ljOGJxZ2s0emJ1aTYycDk5M2VhMWdqNnFmbjNoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif">
+
 ## Tecnologias que domino
 
 <div style="display: inline_block"><br/r>
