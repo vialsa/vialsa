@@ -24,10 +24,8 @@
   <a href="https://www.mysql.com/"  target="_blank"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /></a>
   <a href="https://www.javascript.com" target="_blank"><img height="50" width="50" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></a>
-  
- 
-       
           
 </div><br/>
- 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vialsa&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
