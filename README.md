@@ -7,7 +7,7 @@
 
 <div style="display: inline_block"><br/r>
   
-  <a href="https://www.java.com/pt-BR/" target_blank><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></a>
+  <a href="https://www.java.com/pt-BR/" target="_blank"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></a>
   <a href="https://www.mysql.com/">                  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
   
 </div><br/>
