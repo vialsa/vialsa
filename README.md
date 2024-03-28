@@ -14,7 +14,7 @@
 
 
 
-<h2>Tecnologias que domino</h2> 
+<h2>Tecnologias que Domino</h2> 
 
 <div style="display: inline_block"><br/r>
   
