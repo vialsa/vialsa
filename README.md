@@ -1,3 +1,4 @@
+<p align="center"><a href="https://vialsa.github.io/"><img width="80%" alt="Hello, I'm Vitor" src="./assets/hello.svg" /></a></p>
 
 <p></p>
 
