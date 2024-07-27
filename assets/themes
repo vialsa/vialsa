@@ -1,6 +1,4 @@
-
-title_color: "00EAD3",
-
+<h2> title_color: "00EAD3", <h2>
 text_color: "FF449F",
 icon_color: "00EAD3",
 border_color: "ffffff",
