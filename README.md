@@ -3,7 +3,7 @@
 <p></p>
 
 
- <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRtY2k5Zmk0a2ljOGJxZ2s0emJ1aTYycDk5M2VhMWdqNnFmbjNoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif">
+ <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRtY2k5Zmk0a2ljOGJxZ2s0emJ1aTYycDk5M2VhMWdqNnFmbjNoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif">
  
 <p>Sou aficionado em tecnologia e desenvolvimento de software apaixonado por Front-End. Busco aprimorar minhas habilidades e expandir meu conhecimento em áreas diversas. Estou sempre em busca de oportunidades que me permitam evoluir e agregar valor.</p>
 
