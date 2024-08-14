@@ -7,7 +7,7 @@
  
 <p>Sou aficionado em tecnologia e desenvolvimento de software apaixonado por Front-End. Busco aprimorar minhas habilidades e expandir meu conhecimento em áreas diversas. Estou sempre em busca de oportunidades que me permitam evoluir e agregar valor.</p>
 
-<p>Fora do mundo da tecnologia, busco uma variedade de interesses que me permitem explorar diferentes aspectos da vida e encontrar equilíbrio.</p>
+<p>Fora do mundo da tecnologia, busco uma variedade de interesses que me permitem explorar diferentes aspectos da vida e encontrar equilíbrio. :)</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_alsan/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vitor.almeida.5059)
